@@ -1,6 +1,6 @@
-### Hola Mi nombre es María Quispe 👋
+### Hola, Mi nombre es María Quispe 👋
 
-Soy Programador Web, especialista en plataformas virtuales.
+Programador Web, especialista en administración de plataformas virtuales.
 
 <!--
 **mvquispea/mvquispea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
